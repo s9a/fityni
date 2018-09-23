@@ -1,6 +1,12 @@
 # `fake it till you name it`
 
 <pre>
+fake it
+till you
+<b>name</b> it
+</pre>
+
+<pre>
 Perfectly blended names
 A service by creators <b><a href="https://github.com/orgs/s9a/people">@s9a</a></b>
 Made for creators www wide
