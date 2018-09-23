@@ -19,7 +19,7 @@ Naming is life
 We name to survive
 We name like :water:
 Flowing :heart_eyes:
-Ask us to name
+<a href="../../issues/new">Ask us to name</a>
 Any nameable vibe
 </pre>
 
