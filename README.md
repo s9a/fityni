@@ -34,21 +34,21 @@ Any nameable vibe
 <pre>
 ### inspire us
 
+<b><a href="../../issues/new">got favs?</a></b>
+
 * brands
 * artists
 * projects
-
-<b><a href="../../issues/new">got favs?</a></b>
 </pre>
 
 <pre>
 ### recognize us
 
+<b><a href="../../issues/new">got hustle?</a></b>
+
 * digital street cred=
 * irl tell peeps about us
 * collab with us on mashup(s)
-
-<b><a href="../../issues/new">got hustle?</a></b>
 </pre>
 
 <pre>
