@@ -28,11 +28,11 @@ Any nameable vibe
 ```md
 ### Inspire us
 
-¿Wut are ur fav names out there for...
+¿Wut are ur fav names or handles on www for...
 
 * brands
 * artists
-* handles
+* projects
 ```
 
 
