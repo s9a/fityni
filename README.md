@@ -53,7 +53,7 @@ Any nameable vibe
 ```
 
 ```md
-### `$upport` us
+### $upport us
 
 9up :sparkles:
 mp3 :heartbeat:
