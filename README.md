@@ -24,37 +24,36 @@ Any nameable vibe
 </pre>
 
 ```md
-### We name for
+### we name for
 
 * inspiration
 * recognition
 * =patreonage
 ```
 
-```md
-### Inspire us
+<pre>
+### inspire us
 
-¿Wut are ur fav names or handles on www for...
+<b><a href="../../issues/new">got favs?</a></b>
 
 * brands
 * artists
 * projects
-```
+</pre>
 
+<pre>
+### recognize us
 
-```md
-### Recognize us
-
-(y)our hustle helps (y)ours
+<b><a href="../../issues/new">got hustle?</a></b>
 
 * digital street cred=
 * irl tell peeps about us
 * collab with us on mashup(s)
-```
+</pre>
 
-```md
+<pre>
 ### $upport us
 
 9up :sparkles:
 mp3 :heartbeat:
-```
+</pre>
