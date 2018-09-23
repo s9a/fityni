@@ -11,8 +11,8 @@ Art brand things or alive
 Naming kills
 Naming is life
 We name to survive
-We name with :fire: :water:
-For your :heart_eyes:
+We name like :water:
+Flowing :heart_eyes:
 Ask us to name
 Any nameable vibe
 </pre>
