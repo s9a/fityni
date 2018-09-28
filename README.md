@@ -52,7 +52,7 @@ Any nameable vibe
 </pre>
 
 <pre>
-### $upport us
+### [$upport us](https://www.patreon.com/s9a)
 
 9up :sparkles:
 mp3 :heartbeat:
