@@ -28,7 +28,7 @@ Any nameable vibe
 
 * inspiration
 * recognition
-* =patreonage
+* [=patreonage](https://www.patreon.com/s9a)
 ```
 
 <pre>
@@ -55,5 +55,5 @@ Any nameable vibe
 ### $upport us
 
 9up :sparkles:
-mp3 :heartbeat:
+<a href="https://www.patreon.com/s9a">mp3 :heartbeat:</a>
 </pre>
