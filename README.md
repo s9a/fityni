@@ -23,13 +23,13 @@ Flowing :heart_eyes:
 Any nameable vibe
 </pre>
 
-```md
+<pre>
 ### we name for
 
 * inspiration
 * recognition
-* =patreonage
-```
+* <b><a href="https://www.patreon.com/s9a/overview">=patreonage</a></b>
+</pre>
 
 <pre>
 ### inspire us
@@ -52,7 +52,7 @@ Any nameable vibe
 </pre>
 
 <pre>
-### [$upport us](https://www.patreon.com/s9a)
+### <b><a href="https://www.patreon.com/s9a/overview">$upport us</a></b>
 
 9up :sparkles:
 mp3 :heartbeat:
